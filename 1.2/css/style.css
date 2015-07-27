@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url('http://xeon24.com/data/wallpapers/6/522737-best-wallpapers-hd.jpg');
+    background-size: cover;
+}
+.jumbotron p {
+    color: white;
+}
+.jumbotron h1 {
+    color: gold;
+}
